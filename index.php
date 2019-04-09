@@ -5,8 +5,8 @@
     <title>Comic</title>
   </head>
   <body>
-    <h1> Hacker</h>
+    <h1> Hacker</h1>
     <p>Holi</p>
-    <h1>ola wapos xd</h1>
+    <h1> Hey!</h1>
   </body>
 </html>
